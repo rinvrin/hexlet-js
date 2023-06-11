@@ -1,4 +1,4 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-console.log("Hello, Hexlet!");
-console.log(_.last(["one", "two"]));
+console.log('Hello, Hexlet!'); // eslint-disable-line no-console
+console.log(_.last(['one', 'two'])); // eslint-disable-line no-console
